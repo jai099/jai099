@@ -13,7 +13,7 @@ I'm a passionate and curious developer who thrives on building **impactful and i
 - 🧠 I enjoy working on **AI-powered apps** and **blockchain DApps**.
 - 🌐 My projects often involve **React**, **Node.js**, **Supabase**, **Hardhat**, and **Polygon**.
 - 🧪 Currently working on:  
-  - `Smart Recipe Generator` – AI + UX for daily cooking  
+  - `QR Based Food Ordering System`  
   - `Decentralized Crowdfunding Platform` – Built with Next.js + Polygon  
 
 ---
